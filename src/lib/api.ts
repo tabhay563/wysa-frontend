@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://ec2-13-201-38-228.ap-south-1.compute.amazonaws.com';
+const API_BASE_URL = 'https://api.tabhay.tech/';
 
 export interface AuthRequest {
   nickname: string;
