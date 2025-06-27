@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://api.tabhay.tech/';
+const API_BASE_URL = 'https://api.tabhay.tech';
 
 export interface AuthRequest {
   nickname: string;
